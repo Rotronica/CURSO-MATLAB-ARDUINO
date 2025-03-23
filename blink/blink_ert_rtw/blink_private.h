@@ -1,0 +1,29 @@
+/*
+ * File: blink_private.h
+ *
+ * Code generated for Simulink model 'blink'.
+ *
+ * Model version                  : 1.1
+ * Simulink Coder version         : 9.8 (R2022b) 13-May-2022
+ * C/C++ source code generated on : Sat Mar 15 23:38:36 2025
+ *
+ * Target selection: ert.tlc
+ * Embedded hardware selection: Atmel->AVR
+ * Code generation objectives: Unspecified
+ * Validation result: Not run
+ */
+
+#ifndef RTW_HEADER_blink_private_h_
+#define RTW_HEADER_blink_private_h_
+#include "rtwtypes.h"
+#include "blink_types.h"
+
+extern real_T rt_roundd_snf(real_T u);
+
+#endif                                 /* RTW_HEADER_blink_private_h_ */
+
+/*
+ * File trailer for generated code.
+ *
+ * [EOF]
+ */
